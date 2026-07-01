@@ -1,4 +1,4 @@
-# 🛡️ VaultGuard — Privacy-First Android AppLock
+# [🛡️ VaultGuard — Privacy-First Android AppLock](https://github.com/afaan13/Applock-Releases/releases)
 
 VaultGuard is a premium, offline-first application locking and privacy suite for Android. Built with a modern, modular Clean Architecture and Jetpack Compose UI, VaultGuard allows users to protect apps behind multiple auth methods, setup geofenced safe zones, vault private notifications, capture intruder selfies, and even break addictive habits with a built-in Doomscroll Guard.
 
